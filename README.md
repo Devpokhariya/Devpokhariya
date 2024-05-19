@@ -1,4 +1,4 @@
-### Hi there  <img src="https://github.com/Devpokhariya/Devpokhariya/blob/master/hi.gif" width="29px">
+### Hi there  <img src="https://github.com/Devpokhariya/Devpokhariya/blob/main/hi.gif" width="29px">
 
 <!--
 **Devpokhariya/Devpokhariya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
