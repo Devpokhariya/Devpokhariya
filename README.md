@@ -72,8 +72,8 @@ I'm open to:
 
 ## 📫 Let's Connect
 
-- 🔗 [LinkedIn](https://linkedin.com/in/your-profile)
-- 🌐 [Portfolio Website](https://yourdomain.com) *(optional)*
+- 🔗 [LinkedIn](https://www.linkedin.com/in/dev-pokhariya-41502b128/)
+- 🌐 [Portfolio Website](https://github.com/Devpokhariya/Devpokhariya/blob/main/hi.gif)
 - ✉️ devpokhariya@gmail.com
 
 ---
