@@ -73,7 +73,7 @@ I'm open to:
 ## 📫 Let's Connect
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/dev-pokhariya-41502b128/)
-- 🌐 [Portfolio Website](https://github.com/Devpokhariya/Devpokhariya/blob/main/hi.gif)
+- 🌐 [Portfolio Website](https://github.com/Devpokhariya/Devpokhariya/blob/main/coming-soon-page.jpg)
 - ✉️ devpokhariya@gmail.com
 
 ---
